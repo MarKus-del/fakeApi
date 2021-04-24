@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "id": 1335453453453,
+      "name": "Banana",
+      "product_model": "fruta",
+      "description": "Banana  amarela cheia de vitamina c",
+      "quantity": 100,
+      "price": 2.50,
+      "value_assets": 1.50,
+      "brand": "prata",
+      "code_product": "abnannba12345",
+      "picture": "https://cdn.pixabay.com/photo/2016/01/03/17/59/bananas-1119790_960_720.jpg"
+    },
+    {
+      "id": 1335453453454,
+      "name": "Lápis Branco",
+      "product_model": "lápis",
+      "description": "Lápis com a cor branca",
+      "quantity": 100,
+      "price": 1.50,
+      "value_assets": 1.00,
+      "brand": "Faber Castell",
+      "code_product": "lapisb01",
+      "picture": "https://venanciopapelaria.com.br/wp-content/uploads/2018/12/Imagem-1.jpg"
+    },
+    {
+      "id": 1335453453455,
+      "name": "Caderno Capa Dura",
+      "product_model": "caderno",
+      "description": "Caderno capa dura na cor preta",
+      "quantity": 100,
+      "price": 15.00,
+      "value_assets": 10.00,
+      "brand": "Tilibra",
+      "code_product": "cadernocd01",
+      "picture": "https://www.tilibra.com.br/storage/products/md/caderno-espiral-capa-dura-universitario-1-materia-zip-preto-80-folhas_236730-e1.jpg"
+    },
+    {
+      "id": 1335453453456,
+      "name": "Cola Branca",
+      "product_model": "cola",
+      "description": "Cola branca escolar lavável",
+      "quantity": 100,
+      "price": 3.00,
+      "value_assets": 1.00,
+      "brand": "Pritt",
+      "code_product": "colab01",
+      "picture": "https://img.kalunga.com.br/fotosdeprodutos/214598z.jpg"
+    }
+  ],
+  "services": [
+    {
+      "id": 138435153453,
+      "name": "emissão de nota",
+      "description": "emita as suas notas aqui",
+      "price": 3.00,
+      "code_service": "13a1v5as41v"
+    }
+    ,
+    {
+      "id": 138435153454,
+      "name": "Xerox",
+      "description": "Xerox (01) folha p/b",
+      "price": 0.50,
+      "code_service": "xerox01"
+    }
+    ,
+    {
+      "id": 138435153455,
+      "name": "#2 Via de documento",
+      "description": "Emissão de segunda via de documento.",
+      "price": 5.00,
+      "code_service": "2via01"
+    }
+    ,
+    {
+      "id": 138435153456,
+      "name": "Impressão colorida",
+      "description": "Impressão (01) folha colorida",
+      "price": 1.00,
+      "code_service": "impressao01"
+    }
+    ,
+    {
+      "id": 138435153457,
+      "name": "Impressão p/b",
+      "description": "Impressão (01) folha p/b",
+      "price": 1.50,
+      "code_service": "impressao02"
+    }
+  ]
+}
